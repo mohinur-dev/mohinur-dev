@@ -3,9 +3,9 @@
 ## About Me
 I'm a dedicated Software Developer with expertise in Spring Boot, Angular, and Flutter. I'm passionate about creating innovative solutions and contributing to collaborative projects.
 
-🚀 I'm currently working on an e-commerce application.
+🚀 I'm currently working on an financial application.
 
-🌱 Learning and Growing: I'm currently expanding my skills in React JS.
+🌱 Learning and Growing: I'm currently expanding my skills in Spring boot and vue js.
 
 💬 Open to Collaboration: I'm enthusiastic about collaborating on GitHub projects and contributing to the open-source community.
 
